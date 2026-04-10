@@ -38,11 +38,6 @@ pip install -r requirements.txt
 3. Run the application
 streamlit run app.py
 
-## Deployment
-This project can be deployed using Streamlit Cloud.
-
-(Add your deployed link here)
-
 ## Working Process
 1. User inputs health details
 2. Data is preprocessed
